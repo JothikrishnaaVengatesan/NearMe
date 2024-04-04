@@ -52,23 +52,53 @@ Execute the programs and publish them.
 ~~~
 ### home.html
 ~~~
-<body bgcolor="orange">
-    <h8 align="center">Pallikonda(My HomeTown)</h8>
+<html>
+    <head>
+        <title>
+            My Home Town
+        </title>
+    </head>
+    <body bgcolor="orange">
+        
+            <h1 align="center"><font color="red">PALLIKONDA</font></h1>
+            <h4 align="center" font="italic">
+            <font color="blue"><h5 align="center" font="algerian"> Panchayat
+            </h5></b>
+            </font> 
+            </h4>
+            <hr size="3" color="red">
+            <p align="justify">
+                <font face="Georgia" size="5">
+        
+
 <br>Pallikonda is a selection grade town panchayat in Vellore district in the Indian state of Tamil Nadu. 
 <br>It connects with 90 villages and the town of Gudiyatham.
 <br>History
 Pallikonda hosts a large non-sepulchral megalithic assembly with a vast capstone supported by three equally enormous boulders. The presence of the megalith was officially reported by Col. Congreve of the Madras Regiment in 1845 and was included in the book "Rude Stone Monuments" by J. Fergusson in 1872.[2] The capstone projections are positioned so that they point towards north and south. The surface of the capstone is riddled with more than 75 cupules, built in clusters. Cupules of a large cluster form direct sight-lines to the position of the stars Vega and Capella during solstice sun rise and sunset.[3]
 
 "Uttara Ranganathan" temple beside the Palar river bank has the deity is "Anantashayana", the sleeping form of Vishnu. Since the deity lies north of the river Palar, it is termed as "Uttara" (North).
+</font>
+</p>
 </body>
+</html>
 ~~~
 ### temple.html
 ~~~
 <html>
+    <head>
+        <title>
+            My Home Town
+        </title>
+    </head>
     <body bgcolor="gold">
-        <h4 align="center" font="italic" bgcolor="olive">
-            Arulmigu Sri Aranganayagi samedha Sri Uthira Ranganathar Swamy Temple.
+        <h1 align="center"><font color="red">PALLIKONDA</font></h1>
+        <h4 align="center" font="italic">
+        <font color="blue">  <b>Arulmigu Sri Aranganayagi samedha Sri Uthira Ranganathar Swamy Temple.</b>
+        </font> 
         </h4>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5">
         It is 2000 years old temple associated with the history of Sri Varadharaja Perumal Kanchipuram.
 <center>
     <img src="ranga.jpeg">
@@ -76,15 +106,33 @@ Pallikonda hosts a large non-sepulchral megalithic assembly with a vast capstone
     <img src="perumal.jpeg">
     <br>The lord Vishnu is in Sayana Thirukolam on Adhishesha(five headed snake). 
 </center>
-
+</font>
+      </p>
     </body>
 </html>
+
+
 ~~~
 ### river.html
 ~~~
 <html>
+    <head>
+        <title>
+            My Home Town
+        </title>
+    </head>
     <body bgcolor="skyblue">
-        <h5 align="center" font="algerian">Palar River</h5>
+        <body bgcolor="gold">
+            <h1 align="center"><font color="red">PALLIKONDA</font></h1>
+            <h4 align="center" font="italic">
+            <font color="blue"><h5 align="center" font="algerian">Palar River -- Water Source
+            </h5></b>
+            </font> 
+            </h4>
+            <hr size="3" color="red">
+            <p align="justify">
+                <font face="Georgia" size="5">
+        
         <br>It rises in the Nandi Hills in Chikkaballapura district of Karnataka state
          <br> Flows
           <br>93 kilometres (58 mi) in Karnataka,
@@ -96,27 +144,48 @@ Pallikonda hosts a large non-sepulchral megalithic assembly with a vast capstone
           <br> Of the seven tributaries,
          <br>the chief tributary is the Cheyyar River.
         <center><img src="palar.jpeg"></center>
+    </font>
+    </p>
     </body>
-</html>
+    </html>
 ~~~
 ### mountain.html
 ~~~
-<body bgcolor="gray">
-    <h9 align="center" font="Boucherie Block">Pallikonda Mountain</h9><br>
- <center> <img src="mount.jpeg"></center>  
+<html>
+    <head>
+        <title>
+            My Home Town
+        </title>
+    </head>
+    
+        <body bgcolor="gray">
+            <h1 align="center"><font color="red">PALLIKONDA</font></h1>
+            <h4 align="center" font="italic">
+            <font color="blue"><h5 align="center" font="algerian"> MOUNTAIN && FOREST
+            </h5></b>
+            </font> 
+            </h4>
+            <hr size="3" color="red">
+            <p align="justify">
+                <font face="Georgia" size="5">
+        
 
+
+ <center> <img src="mount.jpeg"></center>  
+                </font>
+                </p>
 </body>
+</html>
 ~~~
 ## OUTPUT
-![alt text](<Screenshot 2024-04-05 011029.png>)
+![alt text](<Screenshot 2024-04-05 014742.png>)
 
-![alt text](<Screenshot 2024-04-05 011650.png>)
+![alt text](<Screenshot 2024-04-05 014757.png>)
 
-![alt text](<Screenshot 2024-04-05 011148.png>)
+![alt text](<Screenshot 2024-04-05 014810.png>)
 
-![alt text](<Screenshot 2024-04-05 011530.png>)
+![alt text](<Screenshot 2024-04-05 014819.png>)
 
-![alt text](<Screenshot 2024-04-05 012128.png>)
-
+![](<Screenshot 2024-04-05 014831.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
